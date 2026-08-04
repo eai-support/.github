@@ -1,8 +1,19 @@
 # EnterpriseAI on GitHub
 
-EnterpriseAI builds and operates an enterprise AI platform and publishes
-customer-facing tools, integration guidance, and community resources through
-the `eai-tools` organization.
+Welcome to EnterpriseAI on GitHub. We build enterprise AI tools and share
+integration guidance, examples, and community resources here.
+
+## Need help?
+
+Visit the [EnterpriseAI Community](https://github.com/eai-tools/community):
+
+- [Ask a question](https://github.com/eai-tools/community/discussions/categories/help-and-q-a)
+- [Report a bug](https://github.com/eai-tools/community/issues/new/choose)
+- [Share an idea](https://github.com/eai-tools/community/discussions/categories/ideas-and-product-feedback)
+- [Read support and security guidance](https://github.com/eai-tools/community#readme)
+
+Please keep public posts free of credentials, customer data, tenant details,
+private URLs, and vulnerability information.
 
 ## Choose the right help route
 
@@ -12,9 +23,8 @@ tenant identifiers, confidential account details, private URLs, unsanitized
 logs, and vulnerability details before posting. Use an authenticated or
 restricted-private route when the information is not safe to publish.
 
-The destination links in this review source remain approval-pending. The launch
-renderer replaces this review-safe table with owner-approved, verified HTTPS
-destinations before publication.
+The Community repository is the front door for public, customer-safe support.
+Use authenticated support for account-specific or contractual matters.
 
 <!-- routes:generated:start -->
 | Route | Handling | Availability |
