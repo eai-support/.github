@@ -5,12 +5,12 @@ integration guidance, examples, and community resources here.
 
 ## Need help?
 
-Visit the [EnterpriseAI Community](https://github.com/eai-tools/community):
+Visit the [EnterpriseAI Community](https://github.com/eai-support/community):
 
-- [Ask a question](https://github.com/eai-tools/community/discussions/categories/help-and-q-a)
-- [Report a bug](https://github.com/eai-tools/community/issues/new/choose)
-- [Share an idea](https://github.com/eai-tools/community/discussions/categories/ideas-and-product-feedback)
-- [Read support and security guidance](https://github.com/eai-tools/community#readme)
+- [Ask a question](https://github.com/eai-support/community/discussions/categories/help-and-q-a)
+- [Report a bug](https://github.com/eai-support/community/issues/new/choose)
+- [Share an idea](https://github.com/eai-support/community/discussions/categories/ideas-and-product-feedback)
+- [Read support and security guidance](https://github.com/eai-support/community#readme)
 
 Please keep public posts free of credentials, customer data, tenant details,
 private URLs, and vulnerability information.
