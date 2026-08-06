@@ -1,6 +1,6 @@
 # EnterpriseAI organization configuration
 
-This repository is the reviewed source for the public `eai-tools` organization
+This repository is the reviewed source for the public `eai-support` organization
 profile, default community-health files, and policy validation. It is not a
 support intake queue: Issues, Discussions, Wiki, and Pages remain disabled
 here.
