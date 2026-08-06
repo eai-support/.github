@@ -20,7 +20,7 @@ and does not replace authenticated customer support.
 | Route | Handling | Availability |
 | --- | --- | --- |
 <!-- route:documentation --> | Documentation | Public | Active |
-<!-- route:public-question --> | Questions | Public | Active |
+<!-- route:public-question --> | Questions / Help & Q&A | Public | Active |
 <!-- route:public-idea --> | Feature Requests | Public | Active |
 <!-- route:public-defect --> | Report a Defect | Public | Active |
 <!-- route:private-security --> | Report a Security Vulnerability | Restricted private | Active |
