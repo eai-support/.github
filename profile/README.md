@@ -10,6 +10,7 @@ Visit the [EnterpriseAI Community](https://github.com/eai-support/community):
 - [Ask a question](https://github.com/eai-support/community/discussions/categories/questions)
 - [Report a bug](https://github.com/eai-support/community/issues/new/choose)
 - [Share an idea](https://github.com/eai-support/community/discussions/categories/feature-requests)
+- [Join the real-time Discord conversation](https://discord.com/channels/1534743402921328721/1534743403592548494)
 - [Read support and security guidance](https://github.com/eai-support/community#readme)
 
 Please keep public posts free of credentials, customer data, tenant details,
