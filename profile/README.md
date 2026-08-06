@@ -13,7 +13,7 @@ Visit the [EnterpriseAI Community](https://github.com/eai-support/community):
 - [Read support and security guidance](https://github.com/eai-support/community#readme)
 
 Please keep public posts free of credentials, customer data, tenant details,
-private URLs, and vulnerability information. Public GitHub support is
+private URLs, and vulnerability information. Please note: public GitHub support is
 non-contractual and does not replace authenticated customer support.
 
 <!-- routes:generated:start -->
