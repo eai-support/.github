@@ -19,11 +19,11 @@ and does not replace authenticated customer support.
 <!-- routes:generated:start -->
 | Route | Handling | Availability |
 | --- | --- | --- |
-<!-- route:documentation --> | Documentation | Public | Active |
-<!-- route:public-question --> | Questions / Help & Q&A | Public | Active |
-<!-- route:public-idea --> | Feature Requests / Ideas & Product Feedback | Public | Active |
-<!-- route:public-defect --> | Report a Defect | Public | Active |
-<!-- route:private-security --> | Report a Security Vulnerability | Restricted private | Active |
-<!-- route:private-support --> | Authenticated Customer Support | Authenticated private | Active |
-<!-- route:service-status --> | Service Status | Public | Active |
+<!-- route:documentation --> | Documentation | Public | Approval pending |
+<!-- route:public-question --> | Help & Q&A | Public | Approval pending |
+<!-- route:public-idea --> | Ideas & Product Feedback | Public | Approval pending |
+<!-- route:public-defect --> | Report a Defect | Public | Approval pending |
+<!-- route:private-security --> | Report a Security Vulnerability | Restricted private | Approval pending |
+<!-- route:private-support --> | Authenticated Customer Support | Authenticated private | Approval pending |
+<!-- route:service-status --> | Service Status | Public | Approval pending |
 <!-- routes:generated:end -->
