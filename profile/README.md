@@ -14,3 +14,15 @@ Visit the [EnterpriseAI Community](https://github.com/eai-support/community):
 
 Please keep public posts free of credentials, customer data, tenant details,
 private URLs, and vulnerability information.
+
+<!-- routes:generated:start -->
+| Route | Handling | Availability |
+| --- | --- | --- |
+<!-- route:documentation --> | Documentation | Public | Active |
+<!-- route:public-question --> | Questions | Public | Active |
+<!-- route:public-idea --> | Feature Requests | Public | Active |
+<!-- route:public-defect --> | Report a Defect | Public | Active |
+<!-- route:private-security --> | Report a Security Vulnerability | Restricted private | Active |
+<!-- route:private-support --> | Authenticated Customer Support | Authenticated private | Active |
+<!-- route:service-status --> | Service Status | Public | Active |
+<!-- routes:generated:end -->
