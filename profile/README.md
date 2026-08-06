@@ -21,7 +21,7 @@ and does not replace authenticated customer support.
 | --- | --- | --- |
 <!-- route:documentation --> | Documentation | Public | Active |
 <!-- route:public-question --> | Questions / Help & Q&A | Public | Active |
-<!-- route:public-idea --> | Feature Requests | Public | Active |
+<!-- route:public-idea --> | Feature Requests / Ideas & Product Feedback | Public | Active |
 <!-- route:public-defect --> | Report a Defect | Public | Active |
 <!-- route:private-security --> | Report a Security Vulnerability | Restricted private | Active |
 <!-- route:private-support --> | Authenticated Customer Support | Authenticated private | Active |
