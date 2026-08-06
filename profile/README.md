@@ -7,9 +7,9 @@ integration guidance, examples, and community resources here.
 
 Visit the [EnterpriseAI Community](https://github.com/eai-support/community):
 
-- [Ask a question](https://github.com/eai-support/community/discussions/categories/q-a)
+- [Ask a question](https://github.com/eai-support/community/discussions/categories/questions)
 - [Report a bug](https://github.com/eai-support/community/issues/new/choose)
-- [Share an idea](https://github.com/eai-support/community/discussions/categories/ideas)
+- [Share an idea](https://github.com/eai-support/community/discussions/categories/feature-requests)
 - [Read support and security guidance](https://github.com/eai-support/community#readme)
 
 Please keep public posts free of credentials, customer data, tenant details,
