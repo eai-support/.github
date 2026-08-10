@@ -18,13 +18,3 @@ private URLs, and vulnerability information. Please note: public GitHub support 
 and does not replace authenticated customer support.
 
 <!-- routes:generated:start -->
-| Route | Handling | Availability |
-| --- | --- | --- |
-<!-- route:documentation --> | Documentation | Public | Approval pending |
-<!-- route:public-question --> | Help & Q&A | Public | Approval pending |
-<!-- route:public-idea --> | Ideas & Product Feedback | Public | Approval pending |
-<!-- route:public-defect --> | Report a Defect | Public | Approval pending |
-<!-- route:private-security --> | Report a Security Vulnerability | Restricted private | Approval pending |
-<!-- route:private-support --> | Authenticated Customer Support | Authenticated private | Approval pending |
-<!-- route:service-status --> | Service Status | Public | Approval pending |
-<!-- routes:generated:end -->
