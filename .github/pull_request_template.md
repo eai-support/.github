@@ -1,3 +1,6 @@
+<!-- Required: plan path/URL, or "exempt — <reason>". See plan-before-code (tech-docs: how-to/how-we-work/plan-before-code). -->
+Plan:
+
 ## Public customer outcome
 
 Describe the customer-safe outcome and why this change belongs in the public
